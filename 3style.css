@@ -1,0 +1,194 @@
+*{
+	padding: 0px;
+	margin: 0%;
+}
+.fluid-container{
+	
+}
+.backgroundpic{
+	width: 100%;
+	height:500px;
+	background-image: url(images/2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 1px solid black;
+	border-radius:5px;
+}
+.logo img{
+	width: 15%;
+	margin-left: 5%;
+	text-shadok;
+
+}
+.Home{
+	margin-top: 8%;
+	padding-top: 2px;
+	width: 50px;
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+
+}
+.Home:hover{
+	border-radius: 5px;
+	background-color: orange;
+	text-shadow: 2px 2px 2px black;
+	
+}
+.About{
+	margin-top: 8%;
+	padding-top: 2px;
+	width: 60px;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+}
+.About:hover{
+	border-radius: 5px;
+	background-color: orange;
+	text-shadow: 2px 2px 2px black;
+}
+.Course{
+	margin-top: 8%;
+	padding-top: 2px;
+	width: 65px;
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+}
+.Course:hover{
+	border-radius: 5px;
+	background-color: orange;
+	text-shadow: 2px 2px 2px black;
+}
+.Blog{
+	margin-top: 8%;
+	padding-top: 2px;
+	width: 45px;
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+} 
+.Blog:hover{
+	border-radius: 5px;
+	background-color: orange;
+	text-shadow: 2px 2px 2px black;
+}
+.Contact{
+	margin-top: 8%;
+	padding-top: 2px;
+	width: 75px;
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+}
+.Contact:hover{
+	text-shadow: 2px 2px 2px black;
+	border-radius: 5px;
+	background-color: orange;
+}
+.button {
+	text-align: center;
+	font-family: cursive;
+	
+}
+.button button{
+	margin-top:1%;
+	color: yellow;
+	font-size: 55px;
+	background-color: transparent;
+	text-shadow: 2px 2px 2px black;
+		font-weight: bold;
+		border: 0px solid black;
+		transition: all 1s;
+
+		
+}
+.button button:hover{
+			text-decoration: underline solid yellow;
+		text-shadow: 5px 5px 15px black;
+	
+}
+.courses{
+margin-top: 30%;
+}
+.courses h1{
+	text-align: center;
+}
+.courses p{
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 12px;
+	color: gray;
+}
+
+.intermediate{
+	text-align: center;
+	margin-top: 8%;
+	margin-left: 15%;
+	border: 1px solid gray;
+	width: 70%;
+	background-color: lightgray;
+
+}
+.intermediate:hover{
+	box-shadow: 1px 1px 5px 6px gray;
+}
+.intermediate p{
+	font-size: 12px;
+	font-weight: bold;
+	color: gray;
+}
+.Degree{
+	text-align: center;
+	margin-top: 8%;
+	margin-left: 15%;
+	border: 1px solid gray;
+	width: 70%;
+	background-color: lightgray;
+
+}
+.Degree:hover{
+	box-shadow: 1px 1px 5px 6px gray;
+}
+.Degree p{
+	font-size: 12px;
+	font-weight: bold;
+	color: gray;
+}
+.Masters{
+	text-align: center;
+	margin-top: 8%;
+	margin-left: 15%;
+	border: 1px solid gray;
+	width: 70%;
+	background-color: lightgray;
+
+}
+.Masters:hover{
+	box-shadow: 1px 1px 5px 6px gray;
+}
+.Masters p{
+	font-size: 12px;
+	font-weight: bold;
+	color: gray;
+}
+.aboutus h1{
+	margin-top: 10%;
+	text-align: center;
+	font-family: monospace;
+	text-shadow: 1px 1px 2px black;
+}
+.aboutus p{
+	text-align: center;
+	font-family: cooper;
+	color: gray;
+	font-weight: bold;
+}
+.icons {
+		text-align: center;
+		font-size: 25px;
+		color: orange;
+}

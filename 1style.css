@@ -1,0 +1,409 @@
+*{ 
+	padding: 0;
+	margin: 0;
+}
+.a{
+	width: 100%;
+	height: 800px;
+	background-image: url(images/1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.fluid-container{
+	
+}
+
+.logo img{
+	width: 15%;
+	margin-left: 5%;
+
+}
+.Home{
+	margin-top: 8%;
+	padding-top: 2px;
+	width: 50px;
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+}
+.Home:hover{
+	border-radius: 5px;
+	background-color: orange;
+	text-shadow: 2px 2px 2px black;
+}
+.About{
+	margin-top: 8%;
+	padding-top: 2px;
+	width: 60px;
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+}
+.About:hover{
+	border-radius: 5px;
+	background-color: orange;
+	text-shadow: 2px 2px 2px black;
+}
+.Course{
+	margin-top: 8%;
+	padding-top: 2px;
+	width: 65px;
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+}
+.Course:hover{
+	border-radius: 5px;
+	background-color: orange;
+	text-shadow: 2px 2px 2px black;
+}
+.Blog{
+	margin-top: 8%;
+	padding-top: 2px;
+	width: 45px;
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+}
+.Blog:hover{
+	border-radius: 5px;
+	background-color: orange;
+	text-shadow: 2px 2px 2px black;
+}
+.Contact{
+	margin-top: 8%;
+	padding-top: 2px;
+	width: 75px;
+	text-shadow: 2px 2px 2px black;
+	color: white;
+	font-weight: bold;
+}
+.Contact:hover{
+	border-radius: 5px;
+	background-color: orange;
+	text-shadow: 2px 2px 2px black;
+}
+.banner{
+	margin-top: 10%;
+	padding-top: ;
+	text-align: center;
+	font-size: 60px;
+	font-weight: bold;color: white;
+	text-shadow: -2px -2px 5px black;
+}
+.para {
+	font-size: 15px;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	padding-top: 10px;
+		
+}
+.button {
+	text-align: center;
+	font-size: 25px;
+	padding-top: 20px;
+}
+.button button{
+	color: gray;
+		font-weight: bold;
+		padding: 10px;
+		border: 1px solid white;
+		transition: 1s all;
+}
+.button button:hover{
+	color: white;
+	background-color: orange;
+	text-shadow: -2px -2px 5px gray;
+}
+.courses{
+	margin-top: 40%;
+}
+.courses h1{
+	text-align: center;
+}
+.courses p{
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 12px;
+	color: gray;
+}
+.intermediate{
+	text-align: center;
+	margin-top: 8%;
+	margin-left: 15%;
+	border: 1px solid gray;
+	width: 70%;
+	background-color: lightgray;
+
+}
+.intermediate:hover{
+	box-shadow: 1px 1px 5px 6px gray;
+}
+.intermediate p{
+	font-size: 12px;
+	font-weight: bold;
+	color: gray;
+}
+.Degree{
+	text-align: center;
+	margin-top: 8%;
+	margin-left: 15%;
+	border: 1px solid gray;
+	width: 70%;
+	background-color: lightgray;
+
+}
+.Degree:hover{
+	box-shadow: 1px 1px 5px 6px gray;
+}
+.Degree p{
+	font-size: 12px;
+	font-weight: bold;
+	color: gray;
+}
+.Masters{
+	text-align: center;
+	margin-top: 8%;
+	margin-left: 15%;
+	border: 1px solid gray;
+	width: 70%;
+	background-color: lightgray;
+
+}
+.Masters:hover{
+	box-shadow: 1px 1px 5px 6px gray;
+}
+.Masters p{
+	font-size: 12px;
+	font-weight: bold;
+	color: gray;
+}
+.campus h1{
+	padding-top: 30px;
+	text-align: center;
+}
+.campus p{
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 12px;
+	color: gray;
+}
+.picone img{
+	width: 80%;
+	height: 400px;
+	padding-top: 20px;
+	padding-left: 80px;
+	transition: 0.5s all;
+}
+.picone img:hover{
+	transform: scale(1.1);
+}
+.pictwo img{
+	width: 80%;
+	height: 400px;
+	padding-top: 20px;
+	padding-left: 80px;
+	transition: 0.5s all;
+}
+.pictwo img:hover{
+	transform: scale(1.1);
+}
+.picthree img{
+	width: 80%;
+	height: 400px;
+	padding-top: 20px;
+	padding-left: 80px;
+	transition: 0.5s all;
+}
+.picthree img:hover{
+	transform: scale(1.1);
+}
+.facilites h1{
+	text-align: center;
+	margin-top: 5%;
+}
+.facilites p{
+	text-align: center;
+	padding-top: 6px;
+	color: gray;
+	font-weight: bold;
+}
+
+.pic-4 img{
+	width: 90%;
+	height: 350px;
+	padding-top: 40px;
+	padding-left: 80px;
+	transition: 0.5s all;
+
+}
+.pic-4 h4{
+	margin-left: 20%;
+	padding-top: 30px;
+}
+.pic-4 p{
+	margin-left: 20%;
+	font-size: 15px;
+	color: gray;
+	font-weight: bold;
+}
+.pic-4 img:hover{
+	transform: scale(1.1);
+}
+.pic-5 img{
+	width: 90%;
+	height: 350px;
+	padding-top: 40px;
+	padding-left: 80px;
+	transition: 0.5s all;
+}
+.pic-5 h4{
+	margin-left: 20%;
+	padding-top: 30px;
+}
+
+.pic-5 p{
+	margin-left: 20%;
+	font-size: 15px;
+	color: gray;
+	font-weight: bold;
+}
+
+.pic-5 img:hover{
+	transform: scale(1.1);
+}
+.pic-6 img{
+	width: 90%;
+	height: 350px;
+	padding-top: 40px;
+	padding-left: 80px;
+	transition: 0.5s all;
+}
+.pic-6 h4{
+	margin-left: 20%;
+	padding-top: 30px;
+}
+.pic-6 p{
+	margin-left: 20%;
+	font-size: 15px;
+	color: gray;
+	font-weight: bold;
+}
+.pic-6 img:hover{
+	transform: scale(1.1);
+}
+.rating-hading h2{
+	text-align: center;
+	margin-top: 10%;
+}
+.rating-hading p{
+	text-align: center;
+	color: gray;
+	font-weight: bold;
+}
+.backgroundone{
+	margin-left: 15%;
+	margin-top: 5%;
+	width: 80%;
+	height: 180px;
+	border: 1px solid white;
+	background-color: lightgray;
+		border-radius: 15px;
+}
+
+.backgroundone   img{
+	position: absolute;
+width: 10%;
+height: 40px;
+margin-left: -15%;
+border-radius: 30px;
+border: 1px solid gray;
+}
+.backgroundone p{
+	margin-left: 15%;
+	padding-top: 15px;
+	font-size: 12px;
+	position: relative;
+}
+.backgroundone h6{
+	margin-left: 5%;
+	font-size: 25px;
+}
+.backgroundone i{
+	margin-left: 5%;
+
+	color: darkorange;
+}
+.backgroundtwo{
+	margin-left: 15%;
+	margin-top: 5%;
+	width: 80%;
+	height: 180px;
+	border: 1px solid white;
+	background-color: lightgray;
+	border-radius: 15px;
+}
+
+.backgroundtwo   img{
+	position: absolute;
+width: 10%;
+height: 40px;
+margin-left: -15%;
+border-radius: 30px;
+border: 1px solid gray;
+}
+.backgroundtwo p{
+	margin-left: 15%;
+	padding-top: 15px;
+	font-size: 12px;
+	position: relative;
+}
+.backgroundtwo h6{
+	margin-left: 5%;
+	font-size: 25px;
+}
+.backgroundtwo i{
+	margin-left: 5%;
+
+	color: darkorange;
+}
+.button-2{
+	text-align: center;
+	font-size: 25px;
+}
+.button-2 button{
+	margin-top: 10%;
+	color: gray;
+		font-weight: bold;
+		padding: 20px;
+		border: 1px solid white;
+		transition: 1s all;
+}
+.button-2 button:hover{
+	color: white;
+	border: 1px solid blue;
+	background-color: orange;
+	text-shadow: -2px -2px 5px gray;
+
+}
+.aboutus h1{
+	margin-top: 10%;
+	text-align: center;
+	font-family: monospace;
+	text-shadow: 1px 1px 2px black;
+}
+.aboutus p{
+	text-align: center;
+	font-family: cooper;
+	color: gray;
+	font-weight: bold;
+}
+.icons {
+		text-align: center;
+		font-size: 25px;
+		color: orange;
+}
